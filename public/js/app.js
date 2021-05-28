@@ -1,8 +1,6 @@
 
 
-console.log('Client side java script is loaded!')
-
-
+// console.log('Client side java script is loaded!')
 
 
 
